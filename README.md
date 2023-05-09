@@ -22,4 +22,4 @@
 + 회사명: ㄱ, ㄴ, ㄷ 순 정렬
 + 제목: 시간 순서 정렬
   + 기술 블로그: `${Title}`
-  + Github: `GitHub: ${UserName}/${RepositoryName}
+  + Github: `GitHub: ${UserName}/${RepositoryName}`
