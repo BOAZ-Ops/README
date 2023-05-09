@@ -1,5 +1,9 @@
 # README
 
++ 마키나락스
+  + [MLOps for ALL](https://mlops-for-all.github.io/)
+  + [MLOps for MLE](https://mlops-for-mle.github.io/tutorial/)
+  + [GitHub: mlops-for-mle/mlops-for-mle](https://github.com/mlops-for-mle/mlops-for-mle)
 + 쏘카
   + [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 + 카카오페이
@@ -17,3 +21,5 @@
 
 + 회사명: ㄱ, ㄴ, ㄷ 순 정렬
 + 제목: 시간 순서 정렬
+  + 기술 블로그: `${Title}`
+  + Github: `GitHub: ${UserName}/${RepositoryName}
