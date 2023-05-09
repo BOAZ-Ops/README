@@ -9,7 +9,8 @@
 + 카카오페이
   + [금융 워크로드를 위한 카카오페이의 AWS 기반 MLOps 플랫폼 구축 사례- 김영욱 솔루션즈 아키텍트, AWS , 오영규 데이터 엔지니어, 조은비 ML 엔지니어, 카카오페이](https://www.youtube.com/watch?v=BbsmOYasu1A) 
   + [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
-
++ 토스
+  + [물 흐르듯 자연스러운 ML 서비스 만들기](https://www.youtube.com/watch?v=EEsYbiqqcc0)
 ---
 
 # Template
