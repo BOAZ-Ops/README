@@ -11,6 +11,9 @@
   + [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
 + 토스
   + [물 흐르듯 자연스러운 ML 서비스 만들기](https://www.youtube.com/watch?v=EEsYbiqqcc0)
++ 하이퍼커넥트
+  + [머신러닝 모델 서빙 비용 1/4로 줄이기](https://hyperconnect.github.io/2022/12/13/infra-cost-optimization-with-aws-inferentia.html)
+
 ---
 
 # Template
