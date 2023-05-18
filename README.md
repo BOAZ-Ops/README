@@ -6,6 +6,7 @@
   + [GitHub: mlops-for-mle/mlops-for-mle](https://github.com/mlops-for-mle/mlops-for-mle)
 + 스캐터랩
   + [AWS Inferentia 를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 1탄](https://tech.scatterlab.co.kr/aws-inferentia/)
+  + [AWS Inferentia를 이용한 모델 서빙 비용 최적화: 모델 서버 비용 2배 줄이기 2탄](https://tech.scatterlab.co.kr/aws-inferentia-2/)
 + 쏘카
   + [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 + 카카오페이
