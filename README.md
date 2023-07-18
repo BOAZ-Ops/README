@@ -10,6 +10,8 @@
   + [새로운 루다를 지탱하는 모델 서빙 아키텍처 — 1편: A/B 테스트를 위한 구조 설계](https://tech.scatterlab.co.kr/serving-architecture-1/)
 + 쏘카
   + [딥러닝 모델 Serving 간단 구축기](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
++ 업스테이지
+  + [DMOps(Data Management Operation and Recipes), 현업에서 데이터 구축하기](https://www.upstage.ai/blog/tech/dmops-data-management-operation-and-recipes) 
 + 카카오페이
   + [금융 워크로드를 위한 카카오페이의 AWS 기반 MLOps 플랫폼 구축 사례- 김영욱 솔루션즈 아키텍트, AWS , 오영규 데이터 엔지니어, 조은비 ML 엔지니어, 카카오페이](https://www.youtube.com/watch?v=BbsmOYasu1A) 
   + [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
